@@ -21,8 +21,8 @@
 * [License](#license)
 
 ## Summary
-Added getUserProfiles() and updateUserProfile() to the SelfServiceManager to support user profiles in applications.
-A function getUsers() was added by IBM Ecosystem Hungary.
+Added **getUserProfiles()** and **updateUserProfile()** to the SelfServiceManager to support user profiles in applications **by KPS**
+A function **getUsers()** was added by **IBM Ecosystem Hungary - Ferenc Rada**.
 
 This SDK provides Passport.js strategies for protecting two types of resources - APIs and Web applications. The major difference between these two resource types is the way client is challenged.
 

@@ -1,0 +1,4 @@
+launchConfigurations/
+node_modules/
+*.log
+**/.DS_Store
