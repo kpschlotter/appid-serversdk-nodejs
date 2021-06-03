@@ -1,3 +1,6 @@
+See it in action:
+https://ecosystem-dach.eu-de.mybluemix.net
+
 # IBM Cloud App ID Node.js SDK
 
 [![IBM Cloud powered][img-ibmcloud-powered]][url-ibmcloud]
